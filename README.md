@@ -93,4 +93,4 @@ En étant 4 personnes, nous mettions **1 heure** pour toutes les labéliser avec
 La partie logicielle a été conçue par :
 
 * **Pierre Montroeul**
-* **Antone Facchini**
+* **Antoine Facchini**
